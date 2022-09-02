@@ -13,7 +13,7 @@
   <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/946090885303640117/1015352996437172224/logo.png">
+  <img align="right" alt="Leo-pic" height="170" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/946090885303640117/1015352996437172224/logo.png">
   
  
   ##
