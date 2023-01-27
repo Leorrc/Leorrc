@@ -1,7 +1,4 @@
-<h2 align="left">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developerk</h2>
-
-   <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
-  
+<h2 align="center">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developerk</h2>
 
  ```javascript
 const sobreMim = {
