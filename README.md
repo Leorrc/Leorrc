@@ -1,5 +1,37 @@
 <h2 align="left">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developerk</h2>
 
+   <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/>      <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
+  
+
+ ```javascript
+const sobreMim = {
+  name: 'Leonardo Carvalho',
+  profession: 'Web Developer',
+  country: 'Brasil',
+  hobbies: [
+    'play games', 'counter-strike go',
+    'watch movies',
+    'Jiujtsu'
+  ],
+  softSkills: [
+    'communication',
+    'teamwork',
+    'leadership',
+    'organization',
+    'stoicism'
+  ]
+};
+
+function faleComigo() {
+  return {
+    email: 'leorrc1@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/leocarvalhodev/',
+    whatsapp: '+55 47 9 9647-3535'
+  }
+}
+
+```
+
 ###
 
 <div align="center">
@@ -43,7 +75,7 @@
   <a href="leozz#1762" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-carvalho-756847239/" target="_blank">
+  <a href="https://www.linkedin.com/in/leocarvalhodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
