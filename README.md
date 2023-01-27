@@ -13,7 +13,7 @@
   <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Leo-pic" height="170" style="border-radius:50px;"src="https://i.imgur.com/YtwBYb3_d.webp?maxwidth=760&fidelity=grand">
+  <img align="right" alt="Leo-pic" height="170" style="border-radius:50px;"src="[https://i.imgur.com/YtwBYb3_d.webp?maxwidth=760&fidelity=grand](https://static.wikia.nocookie.net/mugen/images/1/19/MPMGengarH1.gif/)">
   
  
   ##
