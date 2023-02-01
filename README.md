@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developerk</h2>
+<h2 align="center">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developer</h2>
 
  ```javascript
 const sobreMim = {
