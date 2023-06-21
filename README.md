@@ -4,7 +4,7 @@
 const sobreMim = {
   name: 'Leonardo Carvalho',
   profession: 'Web Developer',
-  country: 'Brasil',
+  country: 'Brazil',
   hobbies: [
     'play games', 'counter-strike go',
     'watch movies',
