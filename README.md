@@ -1,25 +1,14 @@
 <h2 align="center">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developer</h2>
 
  ```javascript
-const sobreMim = {
+const aboutMe = {
   name: 'Leonardo Carvalho',
-  profession: 'Web Developer',
+  profession: 'Full-Stack Web Developer',
   country: 'Brazil',
-  hobbies: [
-    'play games', 'counter-strike go',
-    'watch movies',
-    'Jiujtsu'
-  ],
-  softSkills: [
-    'communication',
-    'teamwork',
-    'leadership',
-    'organization',
-    'stoicism'
-  ]
+  age: 28,
 };
 
-function faleComigo() {
+function talkToMe() {
   return {
     email: 'leorrc1@gmail.com',
     linkedin: 'https://www.linkedin.com/in/leocarvalhodev/',
