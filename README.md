@@ -79,3 +79,4 @@ function talkToMe() {
   ![Snake animation](https://github.com/leorrc/leorrc/blob/output/github-contribution-grid-snake.svg)
  </div>
 </div>
+<img align="left" height="100" src="https://static.wikia.nocookie.net/mugen/images/7/77/MPMGengarS2_1.gif"  />
