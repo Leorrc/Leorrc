@@ -7,6 +7,14 @@
 	
 </ul>
 
+## 🎉 My latest projects
+- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
+- [Z5 Blog](https://github.com/Leorrc/template-blog-z5)
+- [Website Psicóloga Graziele](https://github.com/Leorrc/website-psi-graziele)
+- [Website Psicóloga Maria Zink](https://github.com/Leorrc/website-psi-maria))
+
+<br/>
+
 ## 🛠 &nbsp;Tech Stack
 <div display="flex" gap="2rem">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo"  />
@@ -24,8 +32,4 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48" alt="figma logo"  />
 </div>
 
-## 🎉 latest projects
-- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
-- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
-- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
-- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
+
