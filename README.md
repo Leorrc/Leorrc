@@ -23,3 +23,12 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48" alt="figma logo"  />
 </div>
+
+## 🎉 latest projects
+<ul>
+	<li>- [Next.js](https://github.com/Leorrc/website-bank-z5)</li>
+	<li>Visit my website <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
+	<li>Visit my linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Linkedin</a></li>
+	<li>I’m always studying <strong>JavaScript/TypeScript, ReactJS, NextJS, NodeJS, GraphQl</strong></li>
+	
+</ul>
