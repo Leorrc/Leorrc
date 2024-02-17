@@ -2,7 +2,7 @@
 <ul>
 	<li>Hi 👋! My name is Leonardo Carvalho</li>
 	<li>Visit my website <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
-	<li>Visit my linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Leonardo Carvalho DEV 🔥</a></li>
+	<li>Visit my linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Linkedin</a></li>
 </ul>
 
 ## Current GitHub Stats:
