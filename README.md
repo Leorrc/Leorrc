@@ -5,12 +5,6 @@
 	<li>Visit my linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Linkedin</a></li>
 </ul>
 
-## Current GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Leorrc" height="180em"alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Leorrc" height="180em"" alt="languages graph"  />
-</div>
-
 ## 🛠 &nbsp;Tech Stack
 <div display="flex" gap="2rem">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo"  />
