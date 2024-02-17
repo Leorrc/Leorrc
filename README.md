@@ -4,25 +4,6 @@
 	<li>Visit my website <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
 </ul>
 
-<h2 align="center">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developer</h2>
-
- ```javascript
-const aboutMe = {
-  name: 'Leonardo Carvalho',
-  profession: 'Full-Stack Web Developer',
-  country: 'Brazil',
-  age: 28,
-};
-
-function talkToMe() {
-  return {
-    email: 'leorrc1@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/leocarvalhodev/',
-    whatsapp: '+55 47 9 9647-3535'
-  }
-}
-
-```
 ## Current GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Leorrc" height="180em"alt="stats graph"  />
