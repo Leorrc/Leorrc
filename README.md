@@ -25,10 +25,7 @@
 </div>
 
 ## 🎉 latest projects
-<ul>
-	<li>- [Next.js](https://github.com/Leorrc/website-bank-z5)</li>
-	<li>Visit my website <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
-	<li>Visit my linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Linkedin</a></li>
-	<li>I’m always studying <strong>JavaScript/TypeScript, ReactJS, NextJS, NodeJS, GraphQl</strong></li>
-	
-</ul>
+- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
+- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
+- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
+- [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
