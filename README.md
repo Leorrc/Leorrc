@@ -1,3 +1,9 @@
+<h3>Howdy, how ya doing? 🙌</h3>
+<ul>
+	<li>Hi 👋! My name is Leonardo Carvalho</li>
+	<li>Visit my website <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
+</ul>
+
 <h2 align="center">Hi 👋! My name is Leonardo Carvalho and I'm a Full-Stack Web Developer</h2>
 
  ```javascript
