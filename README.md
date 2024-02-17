@@ -27,12 +27,3 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48" alt="figma logo"  />
 </div>
-
-<br>
-
- ## Reach out to me at:
-<div align="left">
-  <a href="https://www.linkedin.com/in/leocarvalhodev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> 
-</div>
