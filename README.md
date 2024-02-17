@@ -16,7 +16,7 @@
 <br/>
 
 ## 🛠 &nbsp;Tech Stack
-<div display="flex" gap="2rem">
+<div display="flex" gap="4rem">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48" width="48" alt="typescript logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="48" width="48" alt="tailwindcss logo"  />    
