@@ -8,6 +8,7 @@
 </ul>
 
 ## 🎉 My latest projects
+- [Sistema Distrito dos Galpões](https://github.com/Leorrc/sistema-distrito-dos-galpoes)
 - [Distrito dos Galpões](https://github.com/Leorrc/website-distrito-dos-galpoes)
 - [Jaison Imóveis](https://github.com/Leorrc/website-jaison-imoveis)
 - [Z5 Banco Digital](https://github.com/Leorrc/website-bank-z5)
