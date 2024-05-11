@@ -1,13 +1,13 @@
 <h3>Howdy, how ya doing? 🙌</h3>
 <ul>
-	<li>Hi 👋! My name is Leonardo Carvalho</li>
-	<li>Visit my website <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
-	<li>Visit my linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Linkedin</a></li>
-	<li>I’m always studying <strong>JavaScript/TypeScript, ReactJS, NextJS, NodeJS, GraphQl</strong></li>
+	<li>Oi 👋! Meu nome é Leonardo Carvalho</li>
+	<li>Visite meu site <a href="https://leonardocarvalho.dev/">Leonardo Carvalho DEV 🔥</a></li>
+	<li>Visite meu Linkedin <a href="https://www.linkedin.com/in/leocarvalhodev/">Linkedin</a></li>
+	<li><strong>JavaScript/TypeScript, ReactJS, NextJS, NodeJS, GraphQl</strong></li>
 	
 </ul>
 
-## 🎉 My latest projects
+## 🎉 Meus últimos projetos
 - [Sistema Distrito dos Galpões](https://github.com/Leorrc/sistema-distrito-dos-galpoes)
 - [Distrito dos Galpões](https://github.com/Leorrc/website-distrito-dos-galpoes)
 - [Jaison Imóveis](https://github.com/Leorrc/website-jaison-imoveis)
